@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SendFiles</string>
+    <string name="send_email">Send Email</string>
+    <string name="file_to_send">File to Send</string>
+    <string name="name">Name</string>
+    <string name="email_subject">Email Subject</string>
+    <string name="email_recipient">Email Recipient</string>
+    <string name="file_sender">File Sender</string>
+</resources>
